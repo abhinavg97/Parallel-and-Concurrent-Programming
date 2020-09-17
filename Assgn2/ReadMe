@@ -1,0 +1,10 @@
+Compile as:
+
+g++ SrcAssgn2-es15btech11002_filterLock.cpp -o filter -pthread
+g++ SrcAssgn2-es15btech11002_bakeryLock.cpp -o bakery -pthread
+
+
+Run as:
+
+./filter
+./bakery

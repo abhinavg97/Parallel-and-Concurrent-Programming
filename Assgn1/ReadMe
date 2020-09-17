@@ -1,0 +1,11 @@
+Compile as:
+
+g++ Src-es15btech11002-SAM1.cpp -o SAM1 -pthread -std=c++14
+g++ Src-es15btech11002-SAM2.cpp -o SAM2 -pthread -std=c++14
+g++ Src-es15btech11002-DAM.cpp -o DAM -pthread -std=c++14
+
+Run as:
+
+./SAM1
+./SAM2
+./DAM
